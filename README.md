@@ -1,2 +1,2 @@
 # cdpfw
-Framework for ML
+A ML based on Sklearn for quick testing. 
